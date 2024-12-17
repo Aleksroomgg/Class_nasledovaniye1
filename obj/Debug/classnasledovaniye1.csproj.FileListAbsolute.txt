@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\classnasledovaniye1\bin\Debug\classnasledovaniye1.exe.config
+C:\Users\Пользователь\source\repos\classnasledovaniye1\bin\Debug\classnasledovaniye1.exe
+C:\Users\Пользователь\source\repos\classnasledovaniye1\bin\Debug\classnasledovaniye1.pdb
+C:\Users\Пользователь\source\repos\classnasledovaniye1\obj\Debug\classnasledovaniye1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\classnasledovaniye1\obj\Debug\classnasledovaniye1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\classnasledovaniye1\obj\Debug\classnasledovaniye1.exe
+C:\Users\Пользователь\source\repos\classnasledovaniye1\obj\Debug\classnasledovaniye1.pdb
+C:\Users\dmitr\Source\Repos\class_nasledovaniye1\bin\Debug\classnasledovaniye1.exe.config
+C:\Users\dmitr\Source\Repos\class_nasledovaniye1\bin\Debug\classnasledovaniye1.exe
+C:\Users\dmitr\Source\Repos\class_nasledovaniye1\bin\Debug\classnasledovaniye1.pdb
+C:\Users\dmitr\Source\Repos\class_nasledovaniye1\obj\Debug\classnasledovaniye1.csproj.AssemblyReference.cache
+C:\Users\dmitr\Source\Repos\class_nasledovaniye1\obj\Debug\classnasledovaniye1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmitr\Source\Repos\class_nasledovaniye1\obj\Debug\classnasledovaniye1.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Source\Repos\class_nasledovaniye1\obj\Debug\classnasledovaniye1.exe
+C:\Users\dmitr\Source\Repos\class_nasledovaniye1\obj\Debug\classnasledovaniye1.pdb
